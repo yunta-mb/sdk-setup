@@ -1,3 +1,6 @@
+* Fri Jan 18 2013 Maciej Blomberg <maciej.blomberg@jollamobile.com> - 0.16-1
+- sdk-manage: out-of-disk-space and other errors recognition and handling
+
 * Wed Jan 16 2013 David Greaves <david@dgreaves.com> - 0.15-1
 - mb: Also trim tabs from the package name
 - mer-sdk-chroot: Make mounts private before umounting them
